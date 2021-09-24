@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⏣ Templates/Todo List.md",
+            "file": "Snippets/Good Day.md",
             "mode": "source"
           }
         },
@@ -20,8 +20,38 @@
             {
               "leaf": "f6ff1faae942bb0f",
               "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏣ Templates/Todo List.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Snippets/Good Day.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏣ Templates/👤 New Person.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏣ Templates/🔖 New Term.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏣ Templates/▶️ Basic Kanban.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏣ Templates/👤 New Person.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏣ Templates/Todo List.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "f6ff1faae942bb0f",
@@ -106,36 +136,6 @@
               "group": "aff5f894c88d63f6",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗓 Daily Notes/2021-06-15.md\",\"mode\":\"source\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "f6ff1faae942bb0f",
-              "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗓 Daily Notes/2021-06-16.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "f6ff1faae942bb0f",
-              "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗓 Daily Notes/2021-06-15.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f6ff1faae942bb0f",
-              "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗂 Projects/My New Garden/🌽 My New Garden.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "f6ff1faae942bb0f",
-              "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👨‍👧‍👦 People/👤 Alexis Rondeau.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "f6ff1faae942bb0f",
-              "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏰ Todo Lists/Obsidian Garden Todo.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -146,7 +146,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⏣ Templates/Todo List.md",
+            "file": "Snippets/Good Day.md",
             "mode": "preview"
           }
         },
@@ -154,6 +154,12 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"⏣ Templates/▶️ Basic Kanban.md\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "99e2f89bbb16e853",
               "group": "aff5f894c88d63f6",
@@ -267,12 +273,6 @@
               "group": "aff5f894c88d63f6",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/Reading list item.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "99e2f89bbb16e853",
-              "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/Just a note.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
             }
           ]
         }
@@ -384,7 +384,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⏣ Templates/Todo List.md",
+                "file": "Snippets/Good Day.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -417,7 +417,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⏣ Templates/Todo List.md"
+                "file": "Snippets/Good Day.md"
               }
             },
             "pane-relief:history-v1": {
@@ -431,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⏣ Templates/Todo List.md",
+                "file": "Snippets/Good Day.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -462,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "⏣ Templates/Todo List.md",
+                "file": "Snippets/Good Day.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -528,15 +528,15 @@
   },
   "active": "f6ff1faae942bb0f",
   "lastOpenFiles": [
+    "Snippets/Good Day.md",
+    "⏣ Templates/👤 New Person.md",
+    "⏣ Templates/🔖 New Term.md",
+    "⏣ Templates/▶️ Basic Kanban.md",
     "⏣ Templates/Todo List.md",
     "👩‍🌾 Gardening Tips/Sowing Your Garden/⚠️ Statuses.md",
     "👩‍🌾 Gardening Tips/Sowing Your Garden/🌱 Planting Seeds.md",
     "👩‍🌾 Gardening Tips/Sowing Your Garden/🎯  Create Custom Dashboards.md",
     "👩‍🌾 Gardening Tips/Sowing Your Garden/🏭  Project Stucture.md",
-    "👩‍🌾 Gardening Tips/Sowing Your Garden/🏷 Using Tags.md",
-    "🌱 Seed Box/test queries.md",
-    "📇 Terms/🧠 Knowledge Systems/Knowledge Graph.md",
-    "🌱 Seed Box/Untitled.md",
-    "👩‍🌾 Your Knowledge Garden.md"
+    "👩‍🌾 Gardening Tips/Sowing Your Garden/🏷 Using Tags.md"
   ]
 }
