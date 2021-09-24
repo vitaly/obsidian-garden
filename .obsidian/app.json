@@ -1,0 +1,15 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "🌱 Seed Box",
+  "newLinkFormat": "absolute",
+  "attachmentFolderPath": "🖇 Attachments",
+  "alwaysUpdateLinks": true,
+  "obsidianCss": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "categorise"
+  ],
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "showFrontmatter": true
+}
