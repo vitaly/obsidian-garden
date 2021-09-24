@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⏣ Templates/👤 New Person.md",
+            "file": "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
             "mode": "source"
           }
         },
@@ -20,8 +20,20 @@
             {
               "leaf": "f6ff1faae942bb0f",
               "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏣ Templates/👤 New Person.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👨‍👧‍👦 People/👨🏻‍🌾 Bob.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👨‍👧‍👦 People/👤 Alexis Rondeau.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏣ Templates/👤 New Person.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "f6ff1faae942bb0f",
@@ -124,18 +136,6 @@
               "group": "aff5f894c88d63f6",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Backlog/Obsidian Quality of Life Requests.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "f6ff1faae942bb0f",
-              "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Backlog/Shopping List.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "f6ff1faae942bb0f",
-              "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗓 Daily Notes/Untitled.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
             }
           ]
         }
@@ -146,7 +146,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "⏣ Templates/👤 New Person.md",
+            "file": "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
             "mode": "preview"
           }
         },
@@ -384,7 +384,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⏣ Templates/👤 New Person.md",
+                "file": "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -417,7 +417,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⏣ Templates/👤 New Person.md"
+                "file": "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md"
               }
             },
             "pane-relief:history-v1": {
@@ -431,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⏣ Templates/👤 New Person.md",
+                "file": "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -462,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "⏣ Templates/👤 New Person.md",
+                "file": "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -528,6 +528,8 @@
   },
   "active": "f6ff1faae942bb0f",
   "lastOpenFiles": [
+    "👨‍👧‍👦 People/👨🏻‍🌾 Bob.md",
+    "👨‍👧‍👦 People/👤 Alexis Rondeau.md",
     "⏣ Templates/👤 New Person.md",
     "Snippets/Good Day.md",
     "⏣ Templates/🔖 New Term.md",
@@ -535,8 +537,6 @@
     "⏣ Templates/Todo List.md",
     "👩‍🌾 Gardening Tips/Sowing Your Garden/⚠️ Statuses.md",
     "👩‍🌾 Gardening Tips/Sowing Your Garden/🌱 Planting Seeds.md",
-    "👩‍🌾 Gardening Tips/Sowing Your Garden/🎯  Create Custom Dashboards.md",
-    "👩‍🌾 Gardening Tips/Sowing Your Garden/🏭  Project Stucture.md",
-    "👩‍🌾 Gardening Tips/Sowing Your Garden/🏷 Using Tags.md"
+    "👩‍🌾 Gardening Tips/Sowing Your Garden/🎯  Create Custom Dashboards.md"
   ]
 }
