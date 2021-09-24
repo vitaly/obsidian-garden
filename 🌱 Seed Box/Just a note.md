@@ -14,5 +14,6 @@ Status:: #triage
 
 
 ```dataview
-list from #foobar
+table Email
+where Email
 ```

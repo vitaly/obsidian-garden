@@ -4,30 +4,278 @@
     "type": "split",
     "children": [
       {
-        "id": "828e17397f6a51f2",
+        "id": "f6ff1faae942bb0f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🌱 Seed Box/Untitled 1.md",
-            "mode": "source",
-            "backlinks": true
+            "file": "⏣ Templates/Todo List.md",
+            "mode": "source"
           }
         },
-        "group": "d159b0b1dc5ee1f6"
+        "group": "aff5f894c88d63f6",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏣ Templates/Todo List.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👩‍🌾 Gardening Tips/Sowing Your Garden/⚠️ Statuses.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👩‍🌾 Gardening Tips/Sowing Your Garden/🌱 Planting Seeds.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👩‍🌾 Gardening Tips/Sowing Your Garden/🎯  Create Custom Dashboards.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👩‍🌾 Gardening Tips/Sowing Your Garden/🏭  Project Stucture.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👩‍🌾 Gardening Tips/Sowing Your Garden/🏷 Using Tags.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👩‍🌾 Gardening Tips/Sowing Your Garden/⚠️ Statuses.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/test queries.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":16},\"to\":{\"line\":16,\"ch\":16}},\"scroll\":0.38181818181818183}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👩‍🌾 Your Knowledge Garden.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":134,\"ch\":0},\"to\":{\"line\":134,\"ch\":0}},\"scroll\":107.35227272727273}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📇 Glossary.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Snippets/Good Day.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Backlog/Obsidian Quality of Life Requests.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Backlog/Shopping List.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗓 Daily Notes/Untitled.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗓 Daily Notes/2021-06-15.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗓 Daily Notes/2021-06-16.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗓 Daily Notes/2021-06-15.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗂 Projects/My New Garden/🌽 My New Garden.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👨‍👧‍👦 People/👤 Alexis Rondeau.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏰ Todo Lists/Obsidian Garden Todo.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        }
       },
       {
-        "id": "b2ff02849edf5fed",
+        "id": "99e2f89bbb16e853",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "🌱 Seed Box/Untitled 1.md",
-            "mode": "preview",
-            "backlinks": true
+            "file": "⏣ Templates/Todo List.md",
+            "mode": "preview"
           }
         },
-        "group": "d159b0b1dc5ee1f6"
+        "group": "aff5f894c88d63f6",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👩‍🌾 Gardening Tips/Sowing Your Garden/⚠️ Statuses.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/test queries.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0.38181818181818183}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📇 Terms/🧠 Knowledge Systems/Knowledge Graph.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/test queries.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"📇 Terms/🧠 Knowledge Systems/Knowledge Graph.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/test queries.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/Untitled.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":68},\"to\":{\"line\":14,\"ch\":68}},\"scroll\":0}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"👩‍🌾 Your Knowledge Garden.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":107.35227272727273}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏰ ToDo Lists.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/A Dashboard.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/test queries.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/Untitled 1.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/test queries.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/Untitled 1.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/test queries.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/Untitled 1.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/test queries.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/Qwe Contact.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/Reading list item.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "99e2f89bbb16e853",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🌱 Seed Box/Just a note.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -47,6 +295,10 @@
             "state": {
               "type": "starred",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -55,6 +307,10 @@
             "state": {
               "type": "file-tree-view",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
@@ -71,6 +327,10 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -79,13 +339,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#qweqwe",
+                "query": "tag:#in-progress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -94,10 +358,13 @@
             "state": {
               "type": "empty",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -117,7 +384,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌱 Seed Box/Untitled 1.md",
+                "file": "⏣ Templates/Todo List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +393,10 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -134,14 +405,10 @@
             "state": {
               "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "75b4f20e390be5a8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -150,8 +417,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌱 Seed Box/Untitled 1.md"
+                "file": "⏣ Templates/Todo List.md"
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -160,10 +431,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌱 Seed Box/Untitled 1.md",
+                "file": "⏣ Templates/Todo List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -175,6 +450,10 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -183,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "🌱 Seed Box/Untitled 1.md",
+                "file": "⏣ Templates/Todo List.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,6 +489,10 @@
                   "close": true
                 }
               }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -218,6 +501,10 @@
             "state": {
               "type": "stats-tracker",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           },
           {
@@ -226,26 +513,30 @@
             "state": {
               "type": "calendar",
               "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 475.5
   },
-  "active": "b2ff02849edf5fed",
+  "active": "f6ff1faae942bb0f",
   "lastOpenFiles": [
-    "🌱 Seed Box/Untitled 1.md",
-    "👩‍🌾 Gardening Tips/Obsidian/🔌 Plugins & 🌈 Theme.md",
-    "📇 Terms/Obsidian/Obsidian.md",
-    "👩‍🌾 Your Knowledge Garden.md",
-    "🌱 Seed Box/Untitled.md",
+    "⏣ Templates/Todo List.md",
+    "👩‍🌾 Gardening Tips/Sowing Your Garden/⚠️ Statuses.md",
     "👩‍🌾 Gardening Tips/Sowing Your Garden/🌱 Planting Seeds.md",
-    "⏣ Templates/🗒 Basic Note.md",
-    "📇 Terms/🧠 Knowledge Systems/🗃 Knowledge Management.md",
-    "📇 Terms/💡 Concepts/Information Rot.md",
-    "👩‍🌾 Gardening Tips/Sowing Your Garden/🎯  Create Custom Dashboards.md"
+    "👩‍🌾 Gardening Tips/Sowing Your Garden/🎯  Create Custom Dashboards.md",
+    "👩‍🌾 Gardening Tips/Sowing Your Garden/🏭  Project Stucture.md",
+    "👩‍🌾 Gardening Tips/Sowing Your Garden/🏷 Using Tags.md",
+    "🌱 Seed Box/test queries.md",
+    "📇 Terms/🧠 Knowledge Systems/Knowledge Graph.md",
+    "🌱 Seed Box/Untitled.md",
+    "👩‍🌾 Your Knowledge Garden.md"
   ]
 }

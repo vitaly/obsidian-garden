@@ -62,9 +62,9 @@ This guide is designed to get you starting in understanding why a [[📇 Terms/�
 
 ⏳ Like a real garden, good ideas need nurtured and take time to grow - but can reap rewards when cared for correctly.
 
-To escape the distractions of life we can visit our [[👩‍🌾 Gardening Tips/🪨  🌳  Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect with [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🌱 Planting Seeds|🌱 new]] and [[🪴 Grow Room|🪴 old]] knowledge and create [[📇 Terms/🪨 Obsidian/Link|links]] between them so we can see the [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] that connects them.
+To escape the distractions of life we can visit our [[👩‍🌾 Gardening Tips/🌳  Obsidian Garden|Obsidian Garden|Knowledge Garden]] to reconnect with [[👩‍🌾 Gardening Tips/Sowing Your Garden/🌱 Planting Seeds|🌱 new]] and [[Grow Room|old]] knowledge and create [[📇 Terms/Obsidian/Link|links]] between them so we can see the [[📇 Terms/🧠 Knowledge Systems/Knowledge Graph|Knowledge Graph]] that connects them.
 
-Adding enhanced richness with `#tags` and `Variables::` allows us to perform [[searches]] and [[build queries]] that allow us to [[👩‍🌾 Gardening Tips/🪴 Sowing Your Garden/🎯  Create Custom Dashboards|🎯 Create Custom Dashboards]] and code blocks that let us see through the overgrowth of all the data - display tables, and lists - both basic to do items.
+Adding enhanced richness with `#tags` and `Variables::` allows us to perform [[searches]] and [[build queries]] that allow us to [[👩‍🌾 Gardening Tips/Sowing Your Garden/🎯  Create Custom Dashboards|🎯 Create Custom Dashboards]] and code blocks that let us see through the overgrowth of all the data - display tables, and lists - both basic to do items.
 
 Every [[👨‍👧‍👦 People|person's]] garden is different - some are neatly manecured and ordered, while some are more organic and wild - both need nurturing and tending too.
 
@@ -72,7 +72,7 @@ Every [[👨‍👧‍👦 People|person's]] garden is different - some are neat
 
 The suggested flow shows one way of thinking how items are handled - when you have an idea (or want to collect a link, a picture of a doodle, create a contact) you can start with a [[⏣ Templates/🗒 Basic Note]] - or select a more detailed ⏣ Template.
 
-All items start in the 🌱 Seed Box - an inbox for all items that need [[triage]].  Items can then go into the immediate 🪵 Backlog, or be categorised and filed - once items have been created they create new opportunities for new ideas to be created.
+All items start in the 🌱 Seed Box - an inbox for all items that need [[triage]].  Items can then go into the immediate Backlog, or be categorised and filed - once items have been created they create new opportunities for new ideas to be created.
 
 ```mermaid
 graph LR

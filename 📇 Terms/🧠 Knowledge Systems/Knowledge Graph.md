@@ -1,9 +1,10 @@
 ---
 type: term
 description: Description of a knowledge graph
+Status:: #in-progress123
 ---
 %%
-Status:: #in-progress  
+ 
 %%
 
 ---

@@ -2,10 +2,16 @@
 aliases: [🔌 Plugins, plugins, theme]
 type: tutorial
 description: A list of all the plugins used in this Obsidian vault
+title: blah blah'
+tags:
+- abc
+- testdata
 ---
 %%
 Status:: #done 
 %%
+
+
 
 ---
 **Tags**:: #theme #plugins #obsidian #customising #community  #foobar
@@ -17,11 +23,11 @@ random: #qweqwe
 
 ## Theme
 
-Currently the [[👩‍🌾 Gardening Tips/🪨  🌳  Obsidian Garden|Obsidian Garden]] uses an unmodified version of [Pisum](https://github.com/GuangluWu/obsidian-pisum) - a dark mode theme for [[📇 Terms/Obsidian/Obsidian|Obsidian]].
+Currently the [[👩‍🌾 Gardening Tips/🌳  Obsidian Garden|Obsidian Garden]] uses an unmodified version of [Pisum](https://github.com/GuangluWu/obsidian-pisum) - a dark mode theme for [[📇 Terms/Obsidian/Obsidian|Obsidian]].
 
 ## Plugins
 
-To make [[👩‍🌾 Gardening Tips/🪨  🌳  Obsidian Garden|Obsidian Garden]] work there are a few core and community plugins that need to be enabled
+To make [[👩‍🌾 Gardening Tips/🌳  Obsidian Garden|Obsidian Garden]] work there are a few core and community plugins that need to be enabled
 
 | Core            | Community               |
 | --------------- | ----------------------- |
@@ -34,7 +40,7 @@ To make [[👩‍🌾 Gardening Tips/🪨  🌳  Obsidian Garden|Obsidian Garden
 | Outgoing Links  | Focus Mode              |
 | Outline         | Gist                    |
 | Preview Pane    | Journey                 |
-| Quick Switcher  | Kanban                  |
+| Quick Switcher  | Kanban                  
 | Tag Pane        | Obsidian Git            |
 | Starred         | Periodic Notes          |
 | Search          | Reading Time            |
