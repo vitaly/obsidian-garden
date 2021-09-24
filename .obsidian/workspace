@@ -68,7 +68,7 @@
             "id": "7946bc4e7b29c4d4",
             "type": "leaf",
             "state": {
-              "type": "file-tree-view",
+              "type": "empty",
               "state": {}
             }
           }
@@ -107,7 +107,7 @@
             "id": "be9f14ab1c389a8f",
             "type": "leaf",
             "state": {
-              "type": "stats-tracker",
+              "type": "empty",
               "state": {}
             }
           },
@@ -115,7 +115,7 @@
             "id": "75b4f20e390be5a8",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           },
