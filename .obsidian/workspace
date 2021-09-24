@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Snippets/Good Day.md",
+            "file": "⏣ Templates/👤 New Person.md",
             "mode": "source"
           }
         },
@@ -20,8 +20,14 @@
             {
               "leaf": "f6ff1faae942bb0f",
               "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Snippets/Good Day.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"⏣ Templates/👤 New Person.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f6ff1faae942bb0f",
+              "group": "aff5f894c88d63f6",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Snippets/Good Day.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
             },
             {
               "leaf": "f6ff1faae942bb0f",
@@ -130,12 +136,6 @@
               "group": "aff5f894c88d63f6",
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗓 Daily Notes/Untitled.md\",\"mode\":\"source\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "f6ff1faae942bb0f",
-              "group": "aff5f894c88d63f6",
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"🗓 Daily Notes/2021-06-15.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
             }
           ]
         }
@@ -146,7 +146,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Snippets/Good Day.md",
+            "file": "⏣ Templates/👤 New Person.md",
             "mode": "preview"
           }
         },
@@ -384,7 +384,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snippets/Good Day.md",
+                "file": "⏣ Templates/👤 New Person.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -417,7 +417,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snippets/Good Day.md"
+                "file": "⏣ Templates/👤 New Person.md"
               }
             },
             "pane-relief:history-v1": {
@@ -431,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snippets/Good Day.md",
+                "file": "⏣ Templates/👤 New Person.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -462,7 +462,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Snippets/Good Day.md",
+                "file": "⏣ Templates/👤 New Person.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -528,8 +528,8 @@
   },
   "active": "f6ff1faae942bb0f",
   "lastOpenFiles": [
-    "Snippets/Good Day.md",
     "⏣ Templates/👤 New Person.md",
+    "Snippets/Good Day.md",
     "⏣ Templates/🔖 New Term.md",
     "⏣ Templates/▶️ Basic Kanban.md",
     "⏣ Templates/Todo List.md",
